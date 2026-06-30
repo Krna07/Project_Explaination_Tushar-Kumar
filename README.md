@@ -14,6 +14,6 @@ Tushar Kumar
 B.Tech CSE
 Vignan University
 
-LinkedIn:
-GitHub:
-Email:
+LinkedIn: https://www.linkedin.com/in/tushar-kumar-a65624248/
+GitHub: https://github.com/Krna07
+Email: tushar110704@gmail.com
