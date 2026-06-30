@@ -7,6 +7,13 @@ improving digital safety metrics.
 ## Live Demo
 https://cyberbullingdetection.netlify.app/
 
+
+# College Resource Management System
+A MERN stack web application that centralizes college resources and integrates an AI chatbot for student assistance.
+
+## Live Demo
+https://automatevignan.netlify.app/
+
 ## Author
 
 Tushar Kumar
