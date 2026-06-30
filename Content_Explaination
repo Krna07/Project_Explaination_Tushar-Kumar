@@ -1,0 +1,120 @@
+
+**Project Explanation Video**
+
+🔗 **Google Drive Link:**  
+https://drive.google.com/file/d/1YJAVbkFfu0NU0y_CA8mR_euBEsUfbBC4/view?usp=sharing
+
+---
+
+# Project 1: College Resource Management System
+
+## Problem Statement
+In many colleges, students have to search in different places for notes, previous question papers, announcements, and other study materials. This process is time-consuming and inefficient.
+
+## Objective
+The objective of this project is to provide a centralized platform where students can easily access all college resources. An AI chatbot is integrated to answer common student queries.
+
+## System Architecture / Workflow
+
+```
+Student
+   │
+   ▼
+React Frontend
+   │
+   ▼
+Node.js + Express.js
+   │
+   ▼
+MongoDB Database
+   │
+   ▼
+AI Chatbot
+```
+
+## Modules
+
+- User Authentication (JWT)
+- Resource Management
+- AI Chatbot
+- User Dashboard
+
+## Results & Benefits
+
+- Centralized access to study materials
+- Reduced search time
+- Secure authentication
+- Quick responses through AI chatbot
+
+## Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| React.js | Frontend |
+| Node.js | Backend |
+| Express.js | API Development |
+| MongoDB | Database |
+| JWT | Authentication |
+| JavaScript | Programming Language |
+
+---
+
+# Project 2: Cyberbullying Detection System
+
+## Problem Statement
+Detecting abusive and harmful comments manually on social media is difficult due to the large volume of user-generated content.
+
+## Objective
+To automatically identify cyberbullying comments using Natural Language Processing and Machine Learning.
+
+## System Architecture / Workflow
+
+```
+Dataset
+   │
+   ▼
+Text Preprocessing
+   │
+   ▼
+Feature Extraction
+   │
+   ▼
+Machine Learning Model
+   │
+   ▼
+Prediction
+```
+
+## Modules
+
+- Data Collection
+- Text Preprocessing
+- Feature Extraction
+- Model Training
+- Prediction
+
+## Results & Benefits
+
+- Achieved 88% prediction accuracy
+- Faster detection of harmful content
+- Supports safer online communication
+
+## Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Python | Programming |
+| Scikit-learn | Machine Learning |
+| Pandas | Data Processing |
+| NumPy | Numerical Computing |
+| NLP | Text Processing |
+
+---
+
+## Author
+
+**Tushar Kumar**
+
+- B.Tech CSE, Vignan University
+- MERN Stack Developer
+- Java | Python | DSA
